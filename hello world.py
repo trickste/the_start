@@ -1,2 +1,2 @@
-a=str(input())
-print("value of a is "+a)
+name=input()
+print("Hello " +name+ "!")
